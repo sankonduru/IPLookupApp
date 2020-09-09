@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_484562_iplookup.ipaddressinfo_user" name="x_484562_iplookup.ipaddressinfo_user">72d76153db431010cb1c5385ca9619fd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>santhi.konduru</sys_created_by>
+        <sys_created_on>2020-09-09 20:11:59</sys_created_on>
+        <sys_id>f2d7a153db431010cb1c5385ca961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>72d76153db431010cb1c5385ca9619fd</sys_name>
+        <sys_package display_value="IPLookup" source="x_484562_iplookup">47136d5fdb031010cb1c5385ca9619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">47136d5fdb031010cb1c5385ca9619e9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f2d7a153db431010cb1c5385ca961900</sys_update_name>
+        <sys_updated_by>santhi.konduru</sys_updated_by>
+        <sys_updated_on>2020-09-09 20:11:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
